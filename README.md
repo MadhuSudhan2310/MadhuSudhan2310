@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhusudhan2310" alt="madhusudhan2310" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://madhusudhan2310.github.io/web/](https://madhusudhan2310.github.io/web/)
+- 👨‍💻 All of my projects are available at [https://madhusudhan2310.github.io/protofilo/](https://madhusudhan2310.github.io/protofilo/)
 
 - 📫 How to reach me **mmadhusudhan807@gmail.com**
 
-- 📄 Know about my experiences [https://madhusudhan2310.github.io/web/](https://madhusudhan2310.github.io/web/)
+- 📄 Know about my experiences [https://madhusudhan2310.github.io/protofilo/](https://madhusudhan2310.github.io/protofilo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
