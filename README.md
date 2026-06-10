@@ -1,24 +1,167 @@
-<h1 align="center">Hi 👋, I'm M.Madhu Sudhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Madhu%20Sudhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=55&descSize=18"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudhan2310&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhan2310" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhusudhan2310" alt="madhusudhan2310" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hey%2C+I'm+Madhu+Sudhan!;🚀+Full+Stack+Developer;💡+Turning+Ideas+Into+Reality;🌱+Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [https://madhusudhan2310.github.io/protofilo/](https://madhusudhan2310.github.io/protofilo/)
+</div>
 
-- 📫 How to reach me **mmadhusudhan807@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://madhusudhan2310.github.io/protofilo/](https://madhusudhan2310.github.io/protofilo/)
+[![Profile Views](https://komarev.com/ghpvc/?username=madhusudhan2310&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/madhusudhan2310)
+[![GitHub followers](https://img.shields.io/github/followers/madhusudhan2310?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba)](https://github.com/madhusudhan2310)
+[![GitHub stars](https://img.shields.io/github/stars/madhusudhan2310?label=Stars&style=for-the-badge&color=ffd700&labelColor=c8a400)](https://github.com/madhusudhan2310)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhusudhanmangali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhusudhanmangali/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhusudhan2310&show_icons=true&locale=en&layout=compact" alt="madhusudhan2310" /></p>
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhusudhan2310&show_icons=true&locale=en" alt="madhusudhan2310" /></p>
+## 🧑‍💻 About Me
+
+```yaml
+Name     : M. Madhu Sudhan
+Role     : Full Stack Developer
+Location : India 🇮🇳
+Focus    : Web Development & Data Engineering
+Status   : Open to Opportunities 🚀
+```
+
+- 🔭 Working on exciting projects at **[My Portfolio](https://madhusudhan2310.github.io/protofilo/)**
+- 🌱 Currently exploring **Cloud & DevOps**
+- 💬 Ask me about **React, Node.js, MongoDB, Python, PHP**
+- 🤝 Open to **collaborations & freelance work**
+- 📫 Reach me at **mmadhusudhan807@gmail.com**
+- ⚡ Fun fact: *I debug with console.log and I'm not ashamed!* 😄
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhusudhanmangali/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmadhusudhan807@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://madhusudhan2310.github.io/protofilo/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhusudhan2310)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhusudhan2310&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhusudhan2310&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhan2310&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhusudhan2310&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhusudhan2310&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhusudhan2310/madhusudhan2310/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhusudhan2310/madhusudhan2310/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/madhusudhan2310/madhusudhan2310/output/github-snake.svg"/>
+  </picture>
+</div>
+
+> ⚠️ To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   snake:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/madhusudhan)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
+
+**⭐ If you like my work, consider starring my repos! It means a lot 😊**
+
+</div>
