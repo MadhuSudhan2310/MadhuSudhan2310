@@ -12,10 +12,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 All my projects are available at **[My Portfolio](https://madhusudhan2310.github.io/protofilo/)**
+- 🔭 All my projects are available at **[My Portfolio](https://madhusudhan2310.github.io/madhusudhanmangali/)**
 - 💬 Ask me about **React, Node.js, MongoDB, Python**
 - 📫 Reach me at **mmadhusudhan807@gmail.com**
-- 📄 Know about my experiences **[Here](https://madhusudhan2310.github.io/protofilo/)**
+- 📄 Know about my experiences **[Here](https://madhusudhan2310.github.io/madhusudhanmangali/)**
 - ⚡ Fun fact: *I love turning ideas into reality through code!*
 
 ---
@@ -29,8 +29,11 @@
 <a href="mailto:mmadhusudhan807@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://madhusudhan2310.github.io/protofilo/" target="blank">
+<a href="https://madhusudhan2310.github.io/madhusudhanmangali/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/madhusudhan2310" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
@@ -49,8 +52,11 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -86,10 +92,45 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| **AR Based Aircraft Inspection System** | Unity 3D, Vuforia, Python, Flask | [View](https://madhusudhan2310.github.io/madhusudhanmangali/) |
+| **IoT Water Quality Monitoring** | ESP32, Arduino, Blynk, Embedded C | [View](https://madhusudhan2310.github.io/madhusudhanmangali/) |
+| **Personal Portfolio** | HTML, CSS, JavaScript, React | [View](https://madhusudhan2310.github.io/madhusudhanmangali/) |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhusudhanmangali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/madhusudhan2310">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mmadhusudhan807@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://madhusudhan2310.github.io/madhusudhanmangali/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
   
   ### 💡 *"Code is not just syntax — it's the art of solving problems."*
   
   ⭐️ From [madhusudhan2310](https://github.com/madhusudhan2310)
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
